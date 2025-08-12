@@ -1,7 +1,8 @@
 # -Create-a-Strong-Password-and-Evaluate-Its-Strength
  Password strength, brute force attack, dictionary attack, authentication,  best practices
 Password Strength Evaluation and Security Analysis
-Step 1 – Creating Passwords
+
+ ## Step 1 – Creating Passwords
 | **Password**          | **Description**                         |
 | --------------------- | --------------------------------------- |
 | `apple123`            | Short, lowercase + numbers              |
@@ -10,7 +11,8 @@ Step 1 – Creating Passwords
 | `!M@sterC@rd#2025`    | Complex: symbols + mixed case + numbers |
 | `G0!d3n$unSh!ne_2025` | Very complex + long length              |
 
-Step 2 – Testing in Password Strength Checker
+ ## Step 2 – Testing in Password Strength Checker
+ 
 (Example tool: https://www.passwordmonster.com/)
 | **Password**          | **Strength Score** | **Estimated Crack Time** | **Feedback**                            |
 | --------------------- | ------------------ | ------------------------ | --------------------------------------- |
@@ -20,7 +22,8 @@ Step 2 – Testing in Password Strength Checker
 | `!M@sterC@rd#2025`    | Very Strong        | Centuries                | High complexity, avoid dictionary words |
 | `G0!d3n$unSh!ne_2025` | Very Strong        | Thousands of years       | Excellent length and variety            |
 
-Step 3 – Best Practices for Strong Passwords
+ ## Step 3 – Best Practices for Strong Passwords
+ 
 Use at least 12–16 characters.
 
 Combine uppercase, lowercase, numbers, and symbols.
@@ -31,7 +34,7 @@ Use random phrases or a passphrase.
 
 Consider a password manager to store unique passwords for each account.
 
-Step 4 – Note scores and feedback from the tool.
+ ## Step 4 – Note scores and feedback from the tool.
 
 <img width="1920" height="986" alt="p1" src="https://github.com/user-attachments/assets/f38dac54-2681-40c1-bee2-5349d3d4b8d3" />
 
@@ -44,7 +47,7 @@ Step 4 – Note scores and feedback from the tool.
 <img width="1920" height="981" alt="p4" src="https://github.com/user-attachments/assets/6e39640c-2485-4f7c-9cf5-229bf7ac0495" />
 
 
-Step 5 –Identify best practices for creating strong passwords.
+ ## Step 5 –Identify best practices for creating strong passwords.
 
 1. Make it Long
 
@@ -86,7 +89,7 @@ Removes the need to remember them all.
 
 Adds an extra layer of security even if the password is stolen.
 
-Step 6 –Tips from the Evaluation
+ ## Step 6 –Tips from the Evaluation
 1.	Length is Critical – The longer the password, the harder it is to crack. Even a small increase in length greatly increases security.
 2.	Mix Character Types – Use a combination of uppercase, lowercase, numbers, and symbols to expand the possible combinations.
 3.	Avoid Real Words – Dictionary attacks can guess common words or patterns quickly, even with basic substitutions (e.g., P@ssw0rd).
@@ -96,7 +99,7 @@ Step 6 –Tips from the Evaluation
 7.	Password Managers Help – They store and generate complex passwords so you don’t have to memorize them all.
 8.	Enable 2FA – Adds another layer of protection, making stolen passwords less useful to attackers.
 
-Step 7 –Research common password attacks:
+ ## Step 7 –Research common password attacks:
 
 1. Brute Force Attack
 •	The attacker tries every possible combination of characters until the correct password is found.
@@ -118,7 +121,8 @@ Step 7 –Research common password attacks:
 •	Example: An email claims to be from your bank, with a link to a fake site where you “log in.”
 •	Defense: Verify the source before clicking links, check the website URL, and avoid entering passwords into unfamiliar sites.
 
-Step 8 -Impact of Password Complexity on Security
+ ## Step 8 -Impact of Password Complexity on Security
+
 •	Length and Character Variety Increase Security – Each additional character and type (uppercase, lowercase, numbers, symbols) multiplies the total possible combinations, making brute force attacks exponentially slower.
 •	Simple Passwords Are Easily Cracked – Short or predictable passwords can be guessed in seconds using brute force or dictionary attacks.
 •	Randomness Reduces Predictability – Complex, non-patterned passwords are harder for attackers to guess, even with advanced tools.
